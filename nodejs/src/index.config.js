@@ -2,7 +2,8 @@ export default {
     kunyu77: {
         testcfg: {
             bbbb: 'aaaaa',
-        },
+        }
+    },
     wogg: {
     url: "https://wogg.xyz"
     },
@@ -252,7 +253,7 @@ export default {
                 onSurface: '0xFFC7C7C0',
                 surfaceVariant: '0xFF43483E',
                 onSurfaceVariant: '0xFFC7C7C0',
-            },
-        },
-    ],
+            }
+        }
+    ]
 };
