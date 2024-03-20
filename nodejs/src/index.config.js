@@ -3,6 +3,31 @@ export default {
         testcfg: {
             bbbb: 'aaaaa',
         },
+    wogg: {
+    url: "https://wogg.xyz"
+    },
+    tudou: {
+    url: "https://tudou.lvdoui.top"
+    },
+    czzy: {
+    url: "https://cz01.vip"
+    },
+    ikanbot: {
+    url: "https://www.aikanbot.com"
+    },
+    ali: {
+    token: "6a17a19452f04cc5ab351151f2bdcfdc",
+    token280: "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIyNTA0ZWIxNWNmYjE0NWFkYmJjZGJiYzI0YmFiYWRlYyIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzE3NTE0MTE1LCJpYXQiOjE3MDk3MzgxMTUsImp0aSI6ImIwNGU4ZTM4MGFiYTQyYTM5OTgxOGNkNDI1MzM1MzlhIn0.cznFb9HbZn_1CYEvoe9aSwkYFlyUngTuy5SB-4tNHKAADjhIVYu4-gSsKuPIY7rnpmcjbwdirkP5LlGB3ftxVw"
+    },
+    quark: {
+    cookie: "去https://h5.sm.cn/blm/mobile-entry-97/index#/，将浏览器设为PC模式，获取你的夸克cookie覆盖填入此处，形如_UP_A4A_11_=开头的"
+    },
+    bili: {
+    categories: "经典无损音乐合集#帕梅拉#太极拳#健身#舞蹈#音乐#歌曲#MV4K#演唱会4K#白噪音4K#知名UP主#说案#解说#演讲#时事#探索发现超清#纪录片超清#沙雕动画#沙雕穿越#沙雕#平面设计教学#软件教程#实用教程#旅游#风景4K#食谱#美食超清#搞笑#球星#动物世界超清#相声小品#戏曲#儿童#小姐姐4K#热门#旅行探险",
+    cookie: "i-wanna-go-back=-1; buvid_fp_plain=undefined; DedeUserID=478180530; DedeUserID__ckMd5=5a17664f2928ee52; CURRENT_PID=c4058970-cd48-11ed-aced-73b3be32a7d1; FEED_LIVE_VERSION=V8; LIVE_BUVID=AUTO2416818085516679; hit-new-style-dyn=1; buvid3=8844974D-7607-AB71-D7CB-D6E2348D76F386916infoc; b_nut=1691283886; _uuid=6F312895-AC8B-C29C-BA57-414B10CA1DE8362943infoc; b_ut=5; buvid4=DB73880F-3A34-BBA2-378A-2E4A2AF5DE1A57570-022080609-cABoSJjJ1wOrHk0uSjaqIN6xh09U8%2F1PixLX7T8Ps8WYIbYWdgNygA%3D%3D; enable_web_push=DISABLE; header_theme_version=CLOSE; is-2022-channel=1; CURRENT_QUALITY=80; rpdid=0zbfvRWVXD|14p7j3lyk|2N|3w1RhEJN; fingerprint=4345b53c4198e545925156bacc2a6551; buvid_fp=4345b53c4198e545925156bacc2a6551; CURRENT_FNVAL=4048; PVID=2; SESSDATA=482eb259%2C1726126475%2Cdede1%2A31CjCd2urT2b_iWY19GhWIcBH8RzjNoIPT-mrZK7vUuw4tTPjaUV9sMl3I2h3Q7HXIEQMSVmtYMlpQM2padHlwX2dxZzAzeEpGUzY3V2VSSFh0cTZsYjFwbFFmRVo5ZHVsdFlQNXhnY2t6TWphQjQyZEFkVWNWX1RDd2VsM2lMZ2ZHMklqc2JBaENnIIEC; bili_jct=5274f857b71ea036cb1c018bd25b9e19; b_lsid=B9CE10CA9_18E4A14E74E; bp_video_offset_478180530=909660681607839745; home_feed_column=5; browser_resolution=1872-932; sid=4umjjnj6; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTA4OTkyNzQsImlhdCI6MTcxMDY0MDAxNCwicGx0IjotMX0.q5af7Y2NPG7Oq4JedXOjJxtfxPD9cmV7lTcmE6PyimQ; bili_ticket_expires=1710899214"
+    },
+    live: {
+    url: ["https://live.fanmingming.com/tv/m3u/ipv6.m3u", "https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt"]
     },
     ffm3u8: {
         url: 'https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/',
