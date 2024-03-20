@@ -5,7 +5,7 @@ import { MOBILE_UA } from '../../util/misc.js';
 import req from '../../util/req.js';
 import CryptoJS from 'crypto-js';
 
-let key = 'cntv2';
+let key = 'cntv';
 let HOST = 'http://api.cntv.cn';
 
 async function request(reqUrl) {
@@ -223,8 +223,8 @@ async function test(inReq, outResp) {
 
 export default {
     meta: {
-        key: 'cntv2',
-        name: '🍀 央视聚场',
+        key: 'cntv',
+        name: '央视聚场',
         type: 3,
     },
     api: async (fastify) => {
